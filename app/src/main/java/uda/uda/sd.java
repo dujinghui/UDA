@@ -5,7 +5,8 @@ package uda.uda;
  */
 public class sd {
 
-    private void text(){
-        int i=0;
+
+    private void text() {
+        int i = 0;
     }
 }
