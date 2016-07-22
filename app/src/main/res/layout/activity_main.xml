@@ -12,5 +12,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World! dssdfs山东省" />
+        android:text="Hello World!" />
 </RelativeLayout>
