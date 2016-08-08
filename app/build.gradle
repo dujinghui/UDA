@@ -36,4 +36,6 @@ dependencies {
     compile 'com.jakewharton:butterknife:8.0.1'
     apt 'com.jakewharton:butterknife-compiler:8.0.1'
 
+    //微信
+    compile files('/libs/libammsdk.jar')
 }
